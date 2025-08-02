@@ -1,10 +1,9 @@
-# ☀️ SolarTrack: Government-Subsidized Solar Installation Tracker
+# ☀️ SolarTrack: Government-Subsidized Solar Installation Tracker 
 
 ## Table of Contents
 + [Description](#description)
 + [Technology](#technology)
 + [Features](#features)
-+ [Screenshots](#screenshots)
 + [Usage](#usage)
 + [Installation and Setup](#installationandsetup)
 + [Contact](#contact)
@@ -45,14 +44,6 @@
 - View Approved Installation Requests
 - Mark Installations as Complete
 - Change Password
-
-
-![Login Page](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/login.png)
-![Resident Dashboard](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/resident-dashboard.png)
-![Apply for Installation](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/apply-installation.png)
-![Admin Dashboard](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/admin-dashboard.png)
-![Installation Approval](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/approve-installation.png)
-![Installer Dashboard](https://github.com/vaibhavipatil0241/SolarTrack-Government-Subsidized-Solar-Installation-Tracker--/blob/main/images/installer-dashboard.png)
 
 ---
 
